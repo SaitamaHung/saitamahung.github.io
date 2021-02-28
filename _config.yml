@@ -12,6 +12,29 @@ timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
+# 对 css 和 js 资源的 cdn 加速配置
+cdn:
+    jsdelivr:
+        enabled: true
+# 组件配置
+components:
+    # 分享
+    share:
+        enabled: true
+    # 不蒜子访问统计
+    busuanzi:
+        enabled: true
+        start_date: 2020-01-03
+# 压缩页面内容
+compress_html:
+  clippings: all
+  comments: ["<!--", "-->"]
+# 文章字数统计
+word_count:
+    enabled: true
+# 代码高亮风格，支持的 theme 列表见 https://github.com/mzlogin/rouge-themes
+highlight_theme: github
+
 # ---------------- #
 #      Author      #
 # ---------------- #
@@ -95,11 +118,11 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: SaitamaHung
-    repo: blogscomments
+    owner: 
+    repo: 
     oauth:
-        client_id: 77a7722a976938e5d4e3
-        client_secret: 17adcb5189c644c2eb1d50312387040528ac82f5
+        client_id: 
+        client_secret: 
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: SaitamaHung
