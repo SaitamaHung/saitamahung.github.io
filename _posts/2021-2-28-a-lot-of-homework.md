@@ -7,10 +7,13 @@ keywords: blog, test
 ---
 
 真不知道这个blog发布了没
+
 我发张图片看看
 
-![](/images/posts/java/this-unscientific.jpg)
+![](/images/posts/java/this-unscientific.jpeg)
 
 **这句话理应是粗体**
+
 行吧就这样了，作业大把先肝着
+
 **2021.2.28 留**
