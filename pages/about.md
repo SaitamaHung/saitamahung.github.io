@@ -1,18 +1,18 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 这就是我，不一样的我
+keywords: Saitama
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+曾子曰：“吾日三省吾身:为人谋而不忠乎? 与朋友交而不信乎? 传不习乎? ”
 
-仰慕「优雅编码的艺术」。
+这只是一个博客
 
-坚信熟能生巧，努力改变人生。
+并且还没有弄好
 
 ## 联系
 
